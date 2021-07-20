@@ -1,1 +1,2 @@
 Welcome to git class
+This is the second class on git
